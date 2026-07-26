@@ -1,9 +1,8 @@
+streamlit
 langgraph
 langchain
 langchain-groq
-tavily-python
-psycopg2-binary
-requests
-uvicorn
-gunicorn
+psycopg[binary]
 python-dotenv
+tavily-python
+requests

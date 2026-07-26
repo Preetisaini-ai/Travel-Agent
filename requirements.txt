@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-groq
+tavily-python
+psycopg2-binary
+requests
+uvicorn
+gunicorn
+python-dotenv
